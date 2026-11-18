@@ -1,12 +1,23 @@
+
 # GCC BANKING SYSTEM
 ### Introduction to Programming | NQF Level 4
 
 **Institution:** Gauteng City College (GCC)  
-**Lecturer:** Mr Owami
-**Learner:** Edward Tafadzwa Jichichi
+**Lecturer:** Mr Owami  
+**Learner:** Edward Tafadzwa Jichichi  
 **Assignment:** Banking System in C++  
 **Submission Date:** 19 November 2026  
 **Programming Language:** C++
+
+---
+
+## Student Information and Project Links
+
+**GitHub Profile:** [eddyofdesigns-creator](https://github.com/eddyofdesigns-creator)
+
+**LinkedIn Profile:** [Edward T. Jichichi](https://www.linkedin.com/in/edward-t-jichichi-578806260/)
+
+**Project Repository:** [GCC_BANKING_SYSTEM](https://github.com/eddyofdesigns-creator/GCC_BANKING_SYSTEM)
 
 ---
 
@@ -32,8 +43,6 @@ The main objectives of this project are:
 - To manage multiple user accounts using variables.
 - To perform basic banking transactions correctly.
 
-
-
 ## 3. Technologies and Tools Used
 
 The following technologies and development tools were used to create and document the GCC Banking System.
@@ -45,7 +54,6 @@ The following technologies and development tools were used to create and documen
 | **GCC Compiler** | Used to compile the C++ program into an executable application. |
 | **GitHub** | Used to host the project source code and make it accessible online. |
 | **Notepad** | Used to create and edit the project documentation. |
-
 
 ## 4. System Features
 
@@ -129,7 +137,9 @@ To run the application:
 
 The source code can also be compiled using GCC from the command line:
 
-`g++ GCC_Banking_System.cpp -o GCC_Banking_System`
+```bash
+g++ GCC_Banking_System.cpp -o GCC_Banking_System
+```
 
 Then run the generated executable.
 
@@ -156,7 +166,7 @@ The project also helped me understand how different programming concepts work to
 
 The following learning resources were consulted during the development and understanding of the programming concepts used in this project.
 
-**YouTube Learning Resources**
+### YouTube Learning Resources
 
 1. C++ Output using cout:  
    https://www.youtube.com/watch?v=jVC5r0Fpibc
@@ -170,12 +180,12 @@ The following learning resources were consulted during the development and under
 4. C++ Programming Tutorials and Lessons:  
    https://www.youtube.com/watch?v=GTWrWM1UsnA&list=PLRJuRxIsYMUX3iSmvyWPdKFaCooL455YQ
 
-**Website**
+### Website
 
 5. W3Schools. C++ Tutorial.  
    https://www.w3schools.com/cpp/
 
-**Additional Assistance**
+### Additional Learning Support
 
 6. Mr Owami's Introduction to Programming lecture notes, Gauteng City College.
 
